@@ -1,6 +1,6 @@
-# HexChat
+# NextChat
 
-HexChat is an IRC client for Windows and UNIX-like operating systems.  
+NextChat is an IRC client for UNIX-like operating systems. It is a fork of Hexchat, which was archived.  
 See [IRCHelp.org](http://irchelp.org) for information about IRC in general.  
 For more information on HexChat please read our [documentation](https://hexchat.readthedocs.org/en/latest/index.html):
 - [Downloads](http://hexchat.github.io/downloads.html)
